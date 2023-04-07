@@ -2,7 +2,7 @@ package com.example.patrones;
 
 import com.example.patrones.FactoryMethod.FabricaProducto;
 import com.example.patrones.FactoryMethod.Producto;
-import com.example.patrones.Singlenton.Singleton;
+import com.example.patrones.Singleton.Singleton;
 
 public class Main {
     public static void main(String[] args) {

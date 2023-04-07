@@ -1,4 +1,4 @@
-package com.example.patrones.Singlenton;
+package com.example.patrones.Singleton;
 
 public class Singleton {
     private static Singleton instancia;
